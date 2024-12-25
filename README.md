@@ -1,3 +1,5 @@
+# FEEL FREE TO CONTRIBUTE
+
 # React + TypeScript + Vite
 
 This project is built with:
